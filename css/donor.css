@@ -1,0 +1,325 @@
+.donor-wallpaper
+{
+    width: 99.8%;
+    height: 300px;
+    
+}
+.donor-quotes
+{
+  width: 1100px;
+  height: 300px;
+  margin-top: 50px;
+  margin-left: 140px;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 47px 0px rgba(0, 0, 0, 0.47);
+  background-color: white;
+}
+.donor-quotes h1
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.3rem;
+}
+.donor-quotes h2
+{
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 2.1rem;
+    color:green!important; 
+}
+.donor-quotes h3
+{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 2.1rem;
+    color:green!important;
+}
+
+.donor-quotes h4
+{
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.6rem;
+    color: red;
+}
+
+/* donor search form*/
+.donor-search
+{ 
+    position: relative;
+    width: 1150px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border: 1px solid white;
+
+
+}
+.donor-search .search-box 
+{
+    position: relative;
+    max-width: 1100px;
+    margin-left: 10px;
+    margin-top: 25px;
+    border-radius: 55px;
+    
+}
+  
+.donor-search  .search-box img {vertical-align: middle;}
+  
+.donor-search .search-box .search-form
+{
+    position: absolute;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 80%;
+    height: 260px;
+    margin-left: 56px;
+    bottom: 70px;
+    padding: 20px;
+    
+}
+.donor-search .search-box .search-form form
+{
+    width: 99%;
+    height:240px ;
+    margin-left: 10px;
+
+}
+.search-form form h1
+{
+    text-align: center;
+    margin-top: 15px;
+    color: black;
+    font-size: 2.6rem;
+    font-weight: 900!important;
+}
+.search-form form #search
+{
+    margin-left: 15px;
+    margin-top: 20px;
+    width: 97%;
+    height: 70px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.search-form form #search .label-bloodgrp
+{
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-transform: capitalize;
+    font-size: 25px;
+    margin-left: 25px;
+    top: 5px;
+}
+.search-form form #search .bloodgrp
+{
+    position: relative;
+    left: 15px;
+    top: 7px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 10px 24px;
+    font-size: 15px;
+}
+.search-form form #search .state
+{
+    position: relative;
+    left: 30px;
+    top: 7px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 10px 24px;
+    font-size: 15px;
+    
+}
+.search-form form #search .label-state
+{
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-transform: capitalize;
+    font-size: 25px;
+    margin-left: 55px;
+    top: 9px;
+}
+
+.search-form form button
+{
+    margin-left: 360px;
+    margin-top: 20px;
+    padding: 12px 15px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.search-form form button:hover
+{
+cursor: pointer;
+padding: 14px 17px;
+background-color: red;
+color: white;
+}
+/***********************************************************/
+
+.list-all
+{
+    width:1000px;
+    height: 70px;
+    
+
+}
+.list-all .list-btn
+{
+    width: 300px;
+    height: 60px;
+    margin-left: 530px!important;
+    background-color:black;
+    font-size: 22px;
+    border-radius: 10px;
+}
+.list-btn:hover
+{
+    background-color: red;
+    color:white;
+    cursor: pointer;
+}
+.list-all .list-btn a
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* donor list***************************************************************/
+
+.donor-list
+{
+    width: 70%;
+    height: 100%;
+    margin-top: 55px;
+    margin-left: 260px!important;
+    margin-bottom: 80px;
+    
+
+}
+
+/* .donor-list img
+{
+    float: right;
+    width: 300px;
+    height: 70%;
+    margin-top: 60px;
+    border: 1px solid red;
+} */
+
+.donor-list .list-container
+{
+    max-width: 845px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+  
+.donor-list .list-container h2 
+{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+    color:black;
+}
+.donor-list .list-container h2  span 
+{
+      font-size: 30px;
+      color: red;
+    
+}
+  
+.donor-list .list-container .responsive-table li 
+{     
+      border-radius: 10px;
+      padding: 10px 15px;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 15px;
+      margin-top: 10px;
+}
+
+.table-header 
+{
+      background-color: red;
+      color: white;
+      font-size: 18px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+}
+
+.table-row 
+{
+      background-color: #ffffff;
+      box-shadow: 0px 0px 9px 0px rgba(255,0,0,0.2);
+}
+
+.col-1 
+{
+      flex-basis: 25%;
+    
+}
+.col-2 
+{
+      flex-basis: 40%;
+}
+.col-3 
+{
+      flex-basis: 25%;
+}
+.col-4 
+{
+      flex-basis: 25%;
+}
+.col-1 span
+{
+    color: red;
+    font-weight: 900;
+    
+}
+    
+@media all and (max-width: 767px)
+{
+    .table-header 
+    {
+        display: none;
+    }
+    .table-row li
+    {   
+        display: block;
+    }
+    .col
+    {
+        flex-basis: 100%;
+        
+    }
+    .col:before 
+    {
+        display: flex;
+        padding: 10px 0;
+        color: #6C7A89;
+        padding-right: 10px;
+        content: attr(data-label);
+        flex-basis: 50%;
+        text-align: right;
+    }
+}

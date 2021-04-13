@@ -1,0 +1,52 @@
+.gallery-heading
+{
+    width: 99%;
+    height: 100px;
+
+    text-align: center;
+    margin-top: 15px;
+    font-size: 2.3rem;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.our-gallery
+{
+    position: relative;
+    width: 1300px;
+    height: 1000px;
+    margin:20px;
+    
+}
+
+
+.gallery 
+{
+    margin: 15px;
+    border: 1px solid white;
+    float: left;
+    width: 278px;
+    height: 278px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(255,0,0,0.1);
+}
+  
+.gallery:hover
+{
+    border: 1px solid #777;
+    
+}
+  
+.gallery img 
+{
+    width: 100%;
+    height: auto;
+}
+  
+.desc 
+{
+    padding: 15px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}

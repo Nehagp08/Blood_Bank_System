@@ -1,0 +1,413 @@
+.register-wallpaper
+{
+    width: 99.8%;
+    height: 300px;
+    
+}
+/* welcome donor*/
+.register-quotes
+{
+  width: 1100px;
+  height: 300px;
+  margin-top: 50px;
+  margin-left: 140px;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 47px 0px rgba(0, 0, 0, 0.47);
+  background-color: white;
+}
+.register-quotes h1
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.3rem;
+    color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.register-quotes h4
+{
+    margin-top: 50px!important;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.6rem;
+    color: red;
+}
+
+/* donor registration form*/
+
+.donor-register
+{
+    position: relative;
+    width: 1200px;
+    height: 700px;
+    border: 1px solid wheat;
+    margin-top: 40px;
+    margin-left: 90px;
+    box-shadow: 0px 0px 47px 0px rgba(0, 0, 0, 0.47);
+    margin-bottom: 30px;
+}
+.donor-register .donor-reg
+{
+    position: absolute;
+    width: 95%;
+    height: 670px;
+    margin-left: 25px;
+    margin-top: 10px;
+    
+    bottom: 10px;
+}
+.donor-register .donor-reg h1
+{
+    margin-top: 3px;
+    text-align: center;
+
+}
+.donor-register .donor-reg form
+{
+    width: 94%;
+    height: 580px;
+    margin-left: 30px ;
+    top: 3px;
+    padding: 10px;
+
+}
+
+#donar-name
+{
+    width: 100%;
+    height: 85px;
+    margin-top: 10px;
+
+}
+.donar-name
+{
+    text-align: left;
+    margin-left: 25px;
+    top: 55px!important;
+    bottom: 10px;
+    width: 225px;
+    color: Black;
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+.firstname
+{
+    position: relative;
+    left: 260px;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+    border: 1px solid red;
+}
+.lastname
+{
+    position: relative;
+    left: 330px;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+    border: 1px solid red;
+}
+.firstlabel{
+    position: relative;
+    color:black;
+    text-transform: capitalize;
+    font-size: 20px;
+    left: 25px;
+    top: 4px;
+    font-weight: 700;
+
+}
+.lastlabel{
+    position: relative;
+    color: black;
+    text-transform: capitalize;
+    font-size: 20px;
+    left: 95px;
+    top: 4px;
+    font-weight: 600;
+    
+}
+
+#donar-gender
+{
+    width: 100%;
+    height: 65px;
+    margin-top: 15px;
+
+}
+.donar-gender
+{
+    text-align: left;
+    margin-left: 25px;
+    top: 45px!important;
+    bottom: 10px;
+    width: 225px;
+    color: Black;
+    font-size: 28px;
+    font-weight: 700;  
+
+}
+.donar-Gender
+{
+
+    position: relative;
+    left: 265px;
+    top: -27px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 10px 44px;
+    font-size: 18px;
+    
+}
+.donar-age
+{
+    position: relative;
+    margin-left: 520px;
+    top: -67px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 28px;
+
+}
+.donar-Age
+{
+    position: relative;
+    left: 720px;
+    top: -107px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+    border: 1px solid red;
+}
+#donar-bloodgrp
+{
+    width: 20%;
+    height: 65px;
+    margin-top: 15px;
+
+}
+.donar-bloodgrp
+{
+    text-align: left;
+    margin-left: 25px;
+    top: 45px!important;
+    bottom: 10px;
+    width: 225px;
+    color: Black;
+    font-size: 28px;
+    font-weight: 700;   
+}
+.donar-Bloodgrp
+{
+    position: relative;
+    left: 265px;
+    top: -27px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 10px 54px;
+    font-size: 18px; 
+    border: 1px solid black;
+}
+.donar-unit
+{
+    position: relative;
+    margin-left: 520px;
+    top: -73px;
+    width: 140px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 28px;
+    
+
+}
+.donar-Unit
+{
+    position: relative;
+    left: 720px;
+    top: -115px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+#donar-contact
+{
+    width: 100%;
+    height: 55px;
+    margin-top: 10px;
+    
+}
+.donar-mobile
+{
+    text-align: left;
+    margin-left: 25px;
+    top: 55px!important;
+    bottom: -20px;
+    width: 225px;
+    color: Black;
+    font-size: 28px;
+    font-weight: 700;
+    
+}
+.donar-Mobile
+{
+    position: relative;
+    left: 260px;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+    
+}
+.donar-email
+{
+    position: relative;
+    margin-left: 520px;
+    top: -83px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 28px;
+
+}
+.donar-Email
+{
+    position: relative;
+    left: 722px;
+    top: -121px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+}
+#donar-address
+{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    
+    
+}
+.donar-address
+{
+    text-align: left;
+    margin-left: 25px;
+    top: 55px!important;
+    bottom: -20px;
+    width: 225px;
+    color: Black;
+    font-size: 28px;
+    font-weight: 700;
+}
+.donar-Address
+{
+    position: relative;
+    left: 260px;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 18px;
+}
+.donar-state
+{
+    position: relative;
+    margin-left: 520px;
+    top: -83px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 28px;
+}
+.donar-State
+{
+    position: relative;
+    left: 722px;
+    top: -121px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 10px 32px;
+    font-size: 18px;
+}
+
+#donate-date
+{
+    width: 100%;
+    height: 60px;
+    margin-top: 15px;
+}
+.dondate
+{
+    text-align: left;
+    margin-left: 25px;
+    top: 45px!important;
+    bottom: 10px;
+    width: 225px;
+    color: Black;
+    font-size: 28px;
+    font-weight: 700;   
+}
+.Donatedate
+{
+    position: relative;
+    left: 265px;
+    top: -27px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 38px;
+    font-size: 18px; 
+}
+
+.donar-typereq
+{
+    position: relative;
+    margin-left: 520px;
+    top: -83px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 0px 24px;
+    font-size: 24px;
+}
+.donar-TypeReq
+{
+    position: relative;
+    left: 722px;
+    top: -121px;
+    line-height: 40px;
+    border-radius: 9px;
+    padding: 10px 65px;
+    font-size: 18px;
+}
+.requestbtn
+{
+    width: 100px;
+    height: 50px;
+    margin-left: 450px;
+    margin-top: 50px;
+    background: black;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.requestbtn:hover
+{
+    width:120px;
+    height:55px;
+    background: chartreuse;
+    color: black;
+    cursor: pointer;
+    font-size: 19px;
+    border-radius: 22px;
+}
